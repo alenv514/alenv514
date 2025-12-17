@@ -3,7 +3,7 @@
 </p>
 
 ## 🧑‍💻 Sobre mí
-Hola soy ALen
+
 Soy un **Casi Ingeniero de Software** apasionado por Linux y el desarrollo eficiente. Me enfoco en crear soluciones elegantes y tengo una capacidad de **aprendizaje rápido** para dominar cualquier tecnología.
 
 - 🌱 Actualmente aprendiendo: **Linux & Bash Scripting**
@@ -29,6 +29,17 @@ Soy un **Casi Ingeniero de Software** apasionado por Linux y el desarrollo efici
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e" />
 </p>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 ---
 
 ### 📫 Hablemos
