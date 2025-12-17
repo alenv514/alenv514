@@ -28,16 +28,16 @@ Soy un apasionado de la tecnología enfocado en crear soluciones elegantes y efi
 ---
 
 ### 📊 Estadísticas de GitHub
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=radical&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_AQUÍ]&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" />
 </p>
-
----
 
 ### 📫 Contacto
 <p align="left">
