@@ -1,53 +1,42 @@
-# ¡Hola! Soy Alen 👋
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/fp-items/assets/viit-animated.gif" width="250" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=250&section=header&text=Hi,%20I'm%20Alen%20✨&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-### 🚀 Sobre mí
-Soy un apasionado de la tecnología enfocado en crear soluciones elegantes y eficientes. Actualmente estoy explorando nuevas fronteras en [Tu Área: Ej. Desarrollo Web / IA / Data Science].
+## 🧑‍💻 Sobre mí
+Hola soy ALen
+Soy un **Casi Ingeniero de Software** apasionado por Linux y el desarrollo eficiente. Me enfoco en crear soluciones elegantes y tengo una capacidad de **aprendizaje rápido** para dominar cualquier tecnología.
 
-- 🔭 Actualmente soy un Cuasingeniero en Software**
-- 🌱 Estoy aprendiendo **Linux**
-- 💬 Pregúntame sobre **Cualquier cosa**
-- ⚡ Dato curioso: **Aprendo Rapido**
+- 🌱 Actualmente aprendiendo: **Linux & Bash Scripting**
+- 🔭 Meta actual: Convertirme en un experto en sistemas y arquitectura.
+- 💬 Pregúntame sobre: **Cualquier cosa**, ¡siempre estoy abierto a aprender!
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### 🛠️ Technology Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,linux,bash,git,mysql,docker,github,vscode,html,css&theme=dark" />
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
-
+### 📈 Mi actividad en GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&langs_count=6"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e" />
 </p>
 
-### 📫 Contacto
-<p align="left">
-<a href="https://linkedin.com/in/[TU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[TU_NOMBRE]" height="30" width="40" /></a>
-<a href="https://twitter.com/[TU_TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[TU_NOMBRE]" height="30" width="40" /></a>
-<a href="mailto:[TU_EMAIL]" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Email" height="30" width="30" /></a>
-</p>
+---
 
-<br />
+### 📫 Hablemos
+<p align="center">
+<a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=330066&height=100&section=footer&text=Happy%20Coding!%20🚀&fontSize=35" />
 </p>
