@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=Alen&fontSize=80&fontColor=ffffff&animation=fadeIn&bgImg=https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" />
+ <img align="right" alt="Coding" width="400" src="https://slidesdocs.com/es/fondo/paisaje-de-montana-blanco-negro-y-nieve-pico-fondo-power-point_8e982cff5e">
 </p>
 
 <p align="center">
