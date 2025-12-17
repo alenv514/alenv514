@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=250&section=header&text=Hi,%20I'm%20Alen%20✨&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=Alen&fontSize=80&fontColor=ffffff&animation=fadeIn&bgImg=https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" />
+</p>
+
+<p align="center">
+  <b>Casi Ingeniero de Software | Entusiasta de Linux | Aprendizaje Rápido</b>
 </p>
 
 ## 🧑‍💻 Sobre mí
