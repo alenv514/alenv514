@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Alen 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/fp-items/assets/viit-animated.gif" width="250" />
@@ -7,10 +7,10 @@
 ### 🚀 Sobre mí
 Soy un apasionado de la tecnología enfocado en crear soluciones elegantes y eficientes. Actualmente estoy explorando nuevas fronteras en [Tu Área: Ej. Desarrollo Web / IA / Data Science].
 
-- 🔭 Actualmente trabajo en **[Nombre del Proyecto o Empresa]**
-- 🌱 Estoy aprendiendo **[Tecnología que estés estudiando]**
-- 💬 Pregúntame sobre **[Tus temas de dominio]**
-- ⚡ Dato curioso: **[Algo breve y divertido sobre ti]**
+- 🔭 Actualmente soy un Cuasingeniero en Software**
+- 🌱 Estoy aprendiendo **Linux**
+- 💬 Pregúntame sobre **Cualquier cosa**
+- ⚡ Dato curioso: **Aprendo Rapido**
 
 ---
 
