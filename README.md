@@ -21,12 +21,12 @@ Soy un **Casi Ingeniero de Software** apasionado por Linux y el desarrollo efici
 
 ### 📈 Mi actividad en GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alenv514&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenv514&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alenv514&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e" />
 </p>
 
 <picture>
