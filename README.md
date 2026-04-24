@@ -1,9 +1,9 @@
-ayudame a que se vea la parte de la imagen en mi perfil de github <p align="center">
- <img align="right" alt="Coding" width="400" src="https://slidesdocs.com/es/fondo/paisaje-de-montana-blanco-negro-y-nieve-pico-fondo-power-point_8e982cff5e">
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=400&q=80" align="right" alt="Coding" width="300">
 </p>
 
-<p align="center">
-  <b>Casi Ingeniero de Software | Entusiasta de Linux | Aprendizaje Rápido</b>
+<p align="left">
+  <b>Casi Ingeniero de Software | Entusiasta de Linux | Aprendizaje Rápido</b>
 </p>
 
 ## 🧑‍💻 Sobre mí
@@ -18,21 +18,20 @@ Soy un **Casi Ingeniero de Software** apasionado por Linux y el desarrollo efici
 
 ### 🛠️ Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,linux,bash,git,mysql,docker,github,vscode,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,linux,bash,git,mysql,docker,github,vscode,html,css&theme=dark" />
 </p>
 
 ---
 
 ### 📈 Mi actividad en GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alenv514&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenv514&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alenv514&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenv514&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alenv514&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alenv514&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e" />
 </p>
-
 
 ### 📫 Hablemos
 <p align="center">
@@ -41,5 +40,5 @@ Soy un **Casi Ingeniero de Software** apasionado por Linux y el desarrollo efici
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=330066&height=100&section=footer&text=Happy%20Coding!%20🚀&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=330066&height=100&section=footer&text=Happy%20Coding!%20🚀&fontSize=35" />
 </p>
