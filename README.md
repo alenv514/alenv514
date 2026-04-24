@@ -1,8 +1,8 @@
 <p align="center">
- <img align="right" alt="Coding" width="400" src="https://slidesdocs.com/es/fondo/paisaje-de-montana-blanco-negro-y-nieve-pico-fondo-power-point_8e982cff5e">
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=400&q=80" align="right" alt="Coding" width="300">
 </p>
 
-<p align="center">
+<p align="left">
   <b>Casi Ingeniero de Software | Entusiasta de Linux | Aprendizaje Rápido</b>
 </p>
 
@@ -32,7 +32,6 @@ Soy un **Casi Ingeniero de Software** apasionado por Linux y el desarrollo efici
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alenv514&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=f7768e" />
 </p>
-
 
 ### 📫 Hablemos
 <p align="center">
